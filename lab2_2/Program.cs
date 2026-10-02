@@ -69,7 +69,7 @@
 
 try
 {
-    Console.Write("Введите x1:");
+Console.Write("Введите x1:");
 double x1 = double.Parse(Console.ReadLine());
 Console.Write("Введите y1:");
 double y1 = double.Parse(Console.ReadLine());
