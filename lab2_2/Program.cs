@@ -67,24 +67,24 @@
 //    Console.WriteLine(e.Message);
 //}
 
-try
-{
-Console.Write("Введите x1:");
-double x1 = double.Parse(Console.ReadLine());
-Console.Write("Введите y1:");
-double y1 = double.Parse(Console.ReadLine());
-Console.Write("Введите x2:");
-double x2 = double.Parse(Console.ReadLine());
-Console.Write("Введите y2:");
-double y2 = double.Parse(Console.ReadLine());
-Console.Write("Введите x3:");
-double x3 = double.Parse(Console.ReadLine());
-Console.Write("Введите y3:");
-double y3 = double.Parse(Console.ReadLine());
-if (x1 == x2 && y1 == y2) Console.WriteLine("Нельзя провести");
-else Console.WriteLine("Можно провести");
-}
-catch (Exception e)
-{
-    Console.WriteLine(e.Message);
-}
+//try
+//{
+//Console.Write("Введите x1:");
+//double x1 = double.Parse(Console.ReadLine());
+//Console.Write("Введите y1:");
+//double y1 = double.Parse(Console.ReadLine());
+//Console.Write("Введите x2:");
+//double x2 = double.Parse(Console.ReadLine());
+//Console.Write("Введите y2:");
+//double y2 = double.Parse(Console.ReadLine());
+//Console.Write("Введите x3:");
+//double x3 = double.Parse(Console.ReadLine());
+//Console.Write("Введите y3:");
+//double y3 = double.Parse(Console.ReadLine());
+//if (x1 == x2 && y1 == y2) Console.WriteLine("Нельзя провести");
+//else Console.WriteLine("Можно провести");
+//}
+//catch (Exception e)
+//{
+//    Console.WriteLine(e.Message);
+//}
